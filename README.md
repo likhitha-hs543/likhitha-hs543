@@ -92,7 +92,7 @@ Comprehensive stress analysis system with real-time monitoring and predictive an
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=likhitha-hs543&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://git-streak-stats.vercel.app?user=likhitha-hs543&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=EC4899&fire=EC4899&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img width="49%" src="https://nitin110.github.io/github-readme-streak-stats?user=likhitha-hs543&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=EC4899&fire=EC4899&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
