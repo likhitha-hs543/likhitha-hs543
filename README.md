@@ -27,25 +27,19 @@ Currently focused on React, backend systems, and shipping real projects.
 
 ## Featured Projects
 
-### 🔹 Atmotune
-Context-aware music recommender that adapts to weather, mood, and personal preferences  
-**Tech:** React, TypeScript, Spotify API  
-**Highlight:** ML-powered recommendation engine with real-time explanations and local persistence
+🔹 **[Atmotune](https://github.com/likhitha-hs543/Atmotune)** - Context-aware music recommender with ML-powered recommendations  
+🔹 **[Worker Stress Analysis](https://github.com/likhitha-hs543/worker-stress-analysis)** - Real-time stress monitoring with predictive analytics  
+🔹 **[Next.js Blog App](https://github.com/likhitha-hs543/nextjs-blog-app)** - Production-ready blog with authentication and Redux-Saga  
+🔹 **[Task Manager](https://github.com/likhitha-hs543/task-manager)** - Full-stack task management with real-time updates
 
-### 🔹 Worker Stress Analysis
-Real-time stress monitoring dashboard with predictive analytics  
-**Tech:** Python, React, Node.js  
-**Highlight:** Data visualization, intelligent alerts, and comprehensive analytics for workplace wellness
+---
 
-### 🔹 Next.js Blog App
-Production-ready blog application with authentication and clean architecture  
-**Tech:** Next.js, Redux-Saga, TypeScript  
-**Highlight:** API integration, state management, and modular design patterns
+## Activity
 
-### 🔹 Task Manager
-Full-stack task management system with real-time updates  
-**Tech:** React, Node.js, MongoDB  
-**Highlight:** Complete CRUD operations, responsive design, and intuitive UX
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=likhitha-hs543&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+📌 Maintaining consistency with DSA practice & project-based learning  
+💡 Exploring modern web architectures and AI integration patterns
 
 ---
 
@@ -55,13 +49,6 @@ Full-stack task management system with real-time updates
 🛠 Building practical tools that solve real problems  
 🚀 Learning by shipping  
 🎯 Privacy-aware & user-centric design
-
----
-
-## Activity
-
-📌 Maintaining consistency with DSA practice & project-based learning  
-💡 Exploring modern web architectures and AI integration patterns
 
 ---
 
