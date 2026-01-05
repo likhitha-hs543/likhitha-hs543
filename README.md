@@ -1,4 +1,5 @@
-Hi, I'm Likhitha 👋  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=header&text=Hi,%20I'm%20Likhitha%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header" />
+
 **Computer Science Engineer | Full-Stack Developer | AI-Curious Builder**
 
 I build clean, usable web apps and experiment with AI-driven ideas.  
@@ -69,3 +70,7 @@ Full-stack task management system with real-time updates
 **LinkedIn:** [linkedin.com/in/likhitha-hs](https://linkedin.com/in/likhitha-hs)  
 **Portfolio:** [likhitha-hs-portfolio.vercel.app](https://likhitha-hs-portfolio.vercel.app)  
 **Email:** likhitha.hs543@gmail.com
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" alt="Footer" />
