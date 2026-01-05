@@ -18,11 +18,10 @@ Currently focused on React, backend systems, and shipping real projects.
 
 ## Tech Stack
 
-**Languages:** Java, JavaScript, Python, C++, SQL, HTML5, CSS3  
-**Frontend:** React, Next.js, Redux-Saga, Chart.js  
-**Backend & Tools:** Node.js, Flask, Express, Git, GitHub  
-**Databases:** MySQL, PostgreSQL, SQLite, Firebase  
-**AI/ML:** TensorFlow, Keras, OpenCV, DeepFace, Librosa
+**Languages:** Java, C, Python, JavaScript  
+**Frontend:** HTML5, CSS3, Responsive Web Design  
+**Core CS:** Object-Oriented Programming, SQL, Data Structures & Algorithms  
+**AI/ML:** Computer Vision, Speech Emotion Recognition
 
 ---
 
