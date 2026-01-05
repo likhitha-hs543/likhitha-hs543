@@ -43,6 +43,15 @@ Currently focused on React, backend systems, and shipping real projects.
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=likhitha-hs543&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhitha-hs543&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+---
+
 ## What I Care About
 
 ✨ Clean UI & thoughtful UX  
