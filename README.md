@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=header&text=Hi,%20I'm%20Likhitha%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=header&text=Hi,%20I'm%20Likhitha%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header" />
 
 **Computer Science Engineer | Full-Stack Developer | AI-Curious Builder**
 
@@ -18,10 +18,11 @@ Currently focused on React, backend systems, and shipping real projects.
 
 ## Tech Stack
 
-**Languages:** Java, JavaScript, Python, C++, TypeScript  
-**Frontend:** React, HTML, CSS, Redux  
-**Backend & Tools:** Node.js, Express, Git, GitHub  
-**Databases:** MySQL, MongoDB, Firebase
+**Languages:** Java, JavaScript, Python, C++, SQL, HTML5, CSS3  
+**Frontend:** React, Next.js, Redux-Saga, Chart.js  
+**Backend & Tools:** Node.js, Flask, Express, Git, GitHub  
+**Databases:** MySQL, PostgreSQL, SQLite, Firebase  
+**AI/ML:** TensorFlow, Keras, OpenCV, DeepFace, Librosa
 
 ---
 
